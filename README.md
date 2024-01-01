@@ -1,0 +1,1 @@
+This is a Unity VR project created for my virtual reality class, it was used to practice object interaction and basic VR functions. To run this you will need the Unity engine/platform and a VR headset.
